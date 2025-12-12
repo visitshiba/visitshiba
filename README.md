@@ -1,4 +1,4 @@
-# Hi, I'm Shiba Senpai  
+# Hi, I'm Shiba Sahoo aka QA Senpai  
 ### SDET | QA Automation Engineer | Test Framework Architect
 
 I specialize in designing **scalable, maintainable, and high-performance automation frameworks** across UI, API, and integration layers.  
