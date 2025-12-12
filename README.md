@@ -81,16 +81,16 @@ I focus on **clean design patterns, strong abstractions, and modular architectur
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shiba-senpai&show_icons=true&theme=default" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiba-senpai&layout=compact&theme=default" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=visitshiba&show_icons=true&theme=default" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visitshiba&layout=compact&theme=default" height="160">
 </p>
 
 ---
 
 ## 📫 Connect with Me
 
-- GitHub: **github.com/shiba-senpai**  
-- Email: *(add your email here if you want)*  
+- [GitHub](https://github.com/visitshiba/)
+- [LinkedIn](https://www.linkedin.com/in/visitshiba/) 
 
 ---
 
