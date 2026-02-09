@@ -32,22 +32,28 @@ I focus on **clean design patterns, strong abstractions, and modular architectur
 - JavaScript  
 
 ### **Automation**
-- Playwright  
-- Cypress  
+- Playwright    
 - Selenium  
-- RestAssured  
+- RestAssured
+- WebDriverIO
+- Appium
+- AppliTool
 
 ### **Testing**
-- TestNG  
+- TestNG
+- Cucumber  
 - JUnit  
 - Mocha  
-- Chai  
+- Chai
+- Jest
+- BDD / TDD
 
 ### **Build & CI/CD**
 - Maven  
 - npm / pnpm  
 - Jenkins  
-- GitHub Actions  
+- GitHub Actions
+- Docker
 
 ### **Design & Architecture**
 - Page Object Model (POM)  
@@ -58,10 +64,10 @@ I focus on **clean design patterns, strong abstractions, and modular architectur
 - API/Payload Builders (Gson, POJOs)
 
 ### **Cloud & Tools**
-- Git  
-- Postman  
-- Docker  
-- VS Code / IntelliJ  
+- AWS  
+- BrowserStack
+- Headspin    
+
 
 ---
 
