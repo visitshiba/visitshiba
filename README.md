@@ -2,7 +2,7 @@
 ### SDET | QA Automation Engineer | Test Framework Architect | 10+ Years Experience
 
 I specialize in designing **scalable, maintainable, and high-performance automation frameworks** across UI, API, and integration layers.  
-My expertise spans **Playwright, Cypress, TypeScript, Java, RestAssured, TestNG**, and **CPQ-domain test architecture**.
+My expertise spans **Playwright, Cypress, TypeScript, Javascript, RestAssured, Selenium, Appium, TestNG**, and **CPQ-domain test architecture**.
 
 I focus on **clean design patterns, strong abstractions, and modular architecture** that scales for enterprise teams.
 
@@ -15,7 +15,7 @@ I focus on **clean design patterns, strong abstractions, and modular architectur
 - Expertise in **OAuth2.0**, API payload builders, dynamic test data generation  
 - Strong focus on **decoupled architecture** and reusable automation components  
 - Passionate about solving engineering problems through robust testing strategies  
-- Senior SDET with deep expertise in **UI, API, Mobile Automation**, and enterprise-level test framework design  
+- Senior SDET with deep expertise in **UI, API, Mobile Application Automation**, and enterprise-level test framework design  
 - Experienced across diverse domains: **OTT, E-Commerce, Banking, Financial Services, CPQ**
 - Experienced in integrating AI-powered tools to accelerate automation development, improve test stability, and optimize overall QA workflows.  
 - Skilled in using AI-assisted coding and test generation tools to rapidly design reliable UI, API, and mobile automation scripts.  
@@ -28,15 +28,16 @@ I focus on **clean design patterns, strong abstractions, and modular architectur
 
 ### **Languages**
 - TypeScript  
-- Java  
 - JavaScript  
+- Java 
 
 ### **Automation**
 - Playwright    
-- Selenium  
-- RestAssured
 - WebDriverIO
 - Appium
+- RestAssured
+- Selenium
+- JMeter
 - AppliTool
 
 ### **Testing**
